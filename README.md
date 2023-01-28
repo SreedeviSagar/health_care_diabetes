@@ -1,7 +1,7 @@
 # Diabetes Prediction - Deployment
 * This repository consists of files required to deploy a Machine Learning Web App created with Flask on AWS platform.
 ### #Problem statement:
-* Build a model to accurately predict whether the patients in the dataset have diabetes or not?
+* Build a model to accurately predict whether a person have diabetes or not?
 ### #Dependencies:
 * Visual Studio
 * Python - 3.6
